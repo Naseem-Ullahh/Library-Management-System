@@ -7,7 +7,6 @@ using namespace std;
 
 /*
   Library Management System
-  Author: Amaan Shahid
   Description:
     This program implements a Library Management System with OOP principles.
     Features:
