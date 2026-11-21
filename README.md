@@ -193,8 +193,8 @@ Book borrowed successfully.
 
 ## Author
 
-**Naseem Ullah**
-**Waseem Abbas**
-**Amaan Shahid**
+- **Naseem Ullah**
+- **Waseem Abbas**
+- **Amaan Shahid**
 BE Software Engineering — NUST MCS, Rawalpindi
 Course: Data Structures & Algorithms
