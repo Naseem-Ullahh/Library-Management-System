@@ -42,7 +42,7 @@ This program simulates a real-world library system where books can be added, bor
 ```
 LibraryManagementSystem/
 │
-├── main.cpp          # Full source code
+├── LibraryManagementSystem.cpp          # Full source code
 └── README.md         # Project documentation
 ```
 
@@ -102,13 +102,13 @@ The central controller class. Holds all books, users, and transactions in `vecto
 
 ### Compile (Linux / macOS)
 ```bash
-g++ -o library main.cpp -std=c++11
+g++ -o library LibraryManagementSystem.cpp -std=c++11
 ./library
 ```
 
 ### Compile (Windows)
 ```bash
-g++ -o library.exe main.cpp -std=c++11
+g++ -o library.exe LibraryManagementSystem.cpp -std=c++11
 library.exe
 ```
 
@@ -194,5 +194,7 @@ Book borrowed successfully.
 ## Author
 
 **Naseem Ullah**
-BS Software Engineering — NUST MCS, Rawalpindi
+**Waseem Abbas**
+**Amaan Shahid**
+BE Software Engineering — NUST MCS, Rawalpindi
 Course: Data Structures & Algorithms
